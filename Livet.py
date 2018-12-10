@@ -39,7 +39,7 @@ def Bed(x):
 
 state=Home(x="wake")
 while state: state=Home(x="wake")
-print("Død of færdig!!!!")
+print("Død og færdig!!!!")
 
 
 
